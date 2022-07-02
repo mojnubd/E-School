@@ -1,0 +1,122 @@
+.banner img{
+    
+    height: 346px;
+    width: 554px;
+    top: 157px;
+    border-radius: 0px;
+
+}
+
+
+
+.icon{
+    height: 59px;
+    width: 198.07142639160156px;
+    left: 212px;
+    top: 30px;
+    border-radius: 0px;
+
+}
+
+.bg-color{
+    background-color: #F0FFF0;
+    
+}
+
+.cart img{
+    width: 50px;
+    height: 50px;
+    margin-left:150px ;
+    
+    
+    
+}
+
+.cart{
+    text-align: center;
+    
+}
+.card{
+    border: none;
+    margin-top: 100px;
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+    ;
+    
+
+}
+
+.card1 .card2 .card3{
+height: 483px;
+width: 370px;
+top: 100px;
+border-radius: 18px;
+text-align: center;
+
+
+
+
+
+}
+.cart2 img{
+    height: 234px;
+    width: 331px;
+    top: 100px;
+    border-radius: 11px;
+    margin-left: 100px ;
+    
+
+}
+.cart2{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.man{
+    position: absolute;
+width: 120px;
+height: 120px;
+left: 353px;
+
+}
+
+.textp{
+position: absolute;
+width: 580px;
+height: 90px;
+left: 525px;
+margin-top: 40px;
+}
+
+.bg-last{
+
+    margin-top: 300px;
+    background-color: black;
+}
+
+.carttext{
+    color: white;
+}
+
+.card-text2{
+    position: absolute;
+width: 364px;
+height: 60px;
+left: 143px;
+}
+.card5{
+    background-color: black;
+}
+.last-title{
+    color: white;
+}
+footer{
+    text-align: center;
+    color: white;
+}
